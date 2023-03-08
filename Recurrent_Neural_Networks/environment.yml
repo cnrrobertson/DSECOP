@@ -1,0 +1,15 @@
+name: dsecop
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - matplotlib
+  - numpy
+  - keras
+  - ca-certificates
+  - openssl
+  - jupyter
+  - certifi
+  - jupyterlab
+  - ipympl
+prefix: /home/connor/mambaforge/envs/dsecop
